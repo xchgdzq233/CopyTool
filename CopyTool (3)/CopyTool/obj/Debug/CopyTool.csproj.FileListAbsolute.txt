@@ -1,0 +1,17 @@
+C:\Users\janetxue\Documents\GitHub\CopyTool\CopyTool\CopyTool\bin\Debug\CopyTool.exe.config
+Y:\FairfaxStorage\Backups\CopyTool\CopyTool\bin\Debug\CopyTool.exe.config
+Y:\FairfaxStorage\Backups\CopyTool\CopyTool\bin\Debug\CopyTool.exe
+Y:\FairfaxStorage\Backups\CopyTool\CopyTool\bin\Debug\CopyTool.pdb
+Y:\FairfaxStorage\Backups\CopyTool\CopyTool\obj\Debug\CopyTool.exe
+Y:\FairfaxStorage\Backups\CopyTool\CopyTool\obj\Debug\CopyTool.pdb
+C:\Users\janetxue\Documents\GitHub\CopyTool\CopyTool\CopyTool\obj\Debug\CopyTool.exe
+C:\Users\janetxue\Documents\GitHub\CopyTool\CopyTool\CopyTool\obj\Debug\CopyTool.pdb
+Y:\FairfaxStorage\Backups\CopyTool (3)\CopyTool\bin\Debug\CopyTool.exe.config
+Y:\FairfaxStorage\Backups\CopyTool (3)\CopyTool\obj\Debug\CopyTool.exe
+Y:\FairfaxStorage\Backups\CopyTool (3)\CopyTool\obj\Debug\CopyTool.pdb
+Y:\FairfaxStorage\Backups\CopyTool (3)\CopyTool\bin\Debug\CopyTool.exe
+Y:\FairfaxStorage\Backups\CopyTool (3)\CopyTool\bin\Debug\CopyTool.pdb
+Y:\FairfaxStorage\Backups\CopyTool (3)\CopyTool\obj\Debug\CopyTool.csprojResolveAssemblyReference.cache
+C:\Users\janetxue\Documents\GitHub\CopyTool\CopyTool (3)\CopyTool\bin\Debug\CopyTool.exe.config
+C:\Users\janetxue\Documents\GitHub\CopyTool\CopyTool (3)\CopyTool\obj\Debug\CopyTool.exe
+C:\Users\janetxue\Documents\GitHub\CopyTool\CopyTool (3)\CopyTool\obj\Debug\CopyTool.pdb

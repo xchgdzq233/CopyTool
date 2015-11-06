@@ -1,0 +1,5 @@
+Y:\FairfaxStorage\Backups\CopyTool (3)\CheckFetchLocation\bin\Debug\CheckFetchLocation.exe.config
+Y:\FairfaxStorage\Backups\CopyTool (3)\CheckFetchLocation\bin\Debug\CheckFetchLocation.exe
+Y:\FairfaxStorage\Backups\CopyTool (3)\CheckFetchLocation\bin\Debug\CheckFetchLocation.pdb
+Y:\FairfaxStorage\Backups\CopyTool (3)\CheckFetchLocation\obj\Debug\CheckFetchLocation.exe
+Y:\FairfaxStorage\Backups\CopyTool (3)\CheckFetchLocation\obj\Debug\CheckFetchLocation.pdb

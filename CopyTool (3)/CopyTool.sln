@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyTool", "CopyTool\CopyTool.csproj", "{BD01DF20-CE71-402D-8837-6170E187353F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckFetchLocation", "CheckFetchLocation\CheckFetchLocation.csproj", "{55BBA8FF-D0E5-42F7-8759-CD16C31F69C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendTool", "AppendTool\AppendTool.csproj", "{0EC650D9-D042-45B1-9D59-EF35D0727D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD01DF20-CE71-402D-8837-6170E187353F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD01DF20-CE71-402D-8837-6170E187353F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD01DF20-CE71-402D-8837-6170E187353F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD01DF20-CE71-402D-8837-6170E187353F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BBA8FF-D0E5-42F7-8759-CD16C31F69C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BBA8FF-D0E5-42F7-8759-CD16C31F69C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BBA8FF-D0E5-42F7-8759-CD16C31F69C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BBA8FF-D0E5-42F7-8759-CD16C31F69C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC650D9-D042-45B1-9D59-EF35D0727D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC650D9-D042-45B1-9D59-EF35D0727D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC650D9-D042-45B1-9D59-EF35D0727D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC650D9-D042-45B1-9D59-EF35D0727D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
